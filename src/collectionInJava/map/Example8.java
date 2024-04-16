@@ -23,7 +23,7 @@ public class Example8 {
         Map<String, List<String>> m = new HashMap<>();
 
         while (input.hasNext())
-        {
+        { 
             String value = input.next();
             String key =  alphabetize(value);
             List<String> l = m.get(key);
