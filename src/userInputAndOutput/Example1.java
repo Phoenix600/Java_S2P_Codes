@@ -19,9 +19,6 @@ public class Example1 {
         boolean isTrue = input.nextBoolean();
         System.out.println(isTrue);
 
-
-
-
         // String as a data source
         input = new Scanner("Hello 123 people 456");
 

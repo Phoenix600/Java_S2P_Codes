@@ -1,6 +1,4 @@
 package annotationsInJava;
-import java.lang.annotation.Annotation;
-
 
 /**
  * Dummy Annotation
